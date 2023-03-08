@@ -16,8 +16,7 @@ Data Visualization Project
    
 #### 1. 국내 관광객 지역별, 월별 카드이용량
 
-![image](https://user-images.githubusercontent.com/44343908/223651321-8bd25798-f23f-4f3c-9823-bdd46246f9ae.png)
-![image](https://user-images.githubusercontent.com/44343908/223651334-c34041ae-1524-48c8-818b-878eac3d7c93.png)
+![noname01](https://user-images.githubusercontent.com/44343908/223656525-18e583f2-edcc-4071-9a31-fb5f5f79ba86.png)
 
 국내 관광객 지역별 카드 이용량을 비교분석하기 위해 제주를 4개 권역으로 구분하고 월별 카드이용량을 비교하였습니다.
 
@@ -28,7 +27,7 @@ Data Visualization Project
 
 
 
-![image](https://user-images.githubusercontent.com/44343908/223651950-89c376c3-10b7-4047-a4a9-2d04b28d3d1c.png)
+![noname02](https://user-images.githubusercontent.com/44343908/223656594-ffab0311-5935-420d-84e2-ffc896fb3832.png)
 
 - 카드이용량이 8월에 가장 많이 집중되어 있고 12월, 1월, 2월 등 겨울철 비교적 낮은 것으로 나타납니다.
 - 여름철에 관광객이 집중 유입되고 겨울철 관광객 유입이 낮음을 알 수 있습니다. 
@@ -44,8 +43,7 @@ Data Visualization Project
    
 #### 2. 국내 관광객 연령대별, 성별 카드이용량
 
-![image](https://user-images.githubusercontent.com/44343908/223652226-74143adf-073b-4a54-aed1-b8a702be0283.png)
-![image](https://user-images.githubusercontent.com/44343908/223652244-9b2fe207-ea09-4633-b0a1-562566917e52.png)
+![noname03](https://user-images.githubusercontent.com/44343908/223656667-853e6394-2148-4e39-bfc1-f1cdcd80a56d.png)
 
 - 전체적으로는 여성보다 남성의 카드이용량이 높지만 20대에서는 여성보다 남성의 카드이용량이 낮은 것으로 나타납니다. 
 
@@ -61,7 +59,7 @@ Data Visualization Project
    
 #### 3. 국내 관광객 업종별 카드 이용량
 
-![image](https://user-images.githubusercontent.com/44343908/223652417-085cefdd-74e0-4edf-8e28-3fc22284d38d.png)
+![noname04](https://user-images.githubusercontent.com/44343908/223656689-c74d19ce-3e5b-4255-b2ac-a3e0f681910b.png)
 
 - 카드이용금액, 카드이용건수 모두 농축수산품, 슈퍼마켓, 스낵, 기념품점등 식음료/기념품 업종에 매출이 집중되어 있음을 알 수 있습니다. 
 
@@ -77,13 +75,12 @@ Data Visualization Project
    
 #### 4. 중국 관광객 지역별 카드이용량
 
-![image](https://user-images.githubusercontent.com/44343908/223652603-b1a621e6-544b-4de2-9066-98d1674c7d43.png)
+![noname05](https://user-images.githubusercontent.com/44343908/223656706-3a381bac-0d2e-4424-81ba-fc4247e1b79a.png)
 
 - 중국 관광객도 국내 관광객과 마찬가지로 카드이용량이 제주시 도심에 집중되어있음을 확인할 수 있습니다. 
 
 
-
-![image](https://user-images.githubusercontent.com/44343908/223652708-536ac7b7-8884-4fb6-b78d-5040a71a1bb2.png)
+![noname06](https://user-images.githubusercontent.com/44343908/223656718-b884ebc5-3542-4e3c-bf13-e43ca58bbe70.png)
 
 - 타 업종과는 달리 소매, 쇼핑 업종에 대한 매출액이 전체 지역과 제주시 도심지역에 집중되어있음을 확인할 수 있습니다. 
 - 도심지역에 쇼핑 업종 매출액이 집중되어 있음을 손쉽게 발견할 수 있습니다.
@@ -100,7 +97,7 @@ Data Visualization Project
     
 #### 5. 중국 관광객 기간별 카드이용금액
 
-![image](https://user-images.githubusercontent.com/44343908/223652906-b89d68ce-0a83-4e0e-808f-d2ddcdc89b80.png)
+![noname07](https://user-images.githubusercontent.com/44343908/223656726-20d032d3-c25d-41dc-8cf7-e58e3e451c32.png)
 
 > 숙박, 교통과 같이 관광에 필수적인 업종은 감소한 반면 소매, 쇼핑과 같은 업종은 증가, 큰 비중을 차지하는 것으로 보아 이 또한 중국 관광객의 면세점 쇼핑 실태를 반영하는 것으로 해석할 수 있습니다
 
@@ -114,7 +111,7 @@ Data Visualization Project
     
 #### 6. 국내 관광객과 중국 관광객 별 제주시 도심의 업종 매출 비율 비교
 
-![image](https://user-images.githubusercontent.com/44343908/223653232-5652cd91-996f-4a3f-82b2-d47614c7997f.png)
+![datavisualization1](https://user-images.githubusercontent.com/44343908/223656791-d4114e7d-6758-45c3-882d-4fc5d06230c9.png)
 
 국내 관광객과 중국 관광객 별 제주시 도심의 업종 매출 비율을 비교하였습니다.
 
